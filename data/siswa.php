@@ -1,0 +1,40 @@
+<?php
+// Data siswa Kelas XI RPL 2 (sumber: ABSENSI__XI_RPL2_FULL.xlsx)
+// 'foto' diisi nama file gambar yang ditaruh di folder /foto
+// Jika file foto belum ada, otomatis tampil avatar inisial.
+
+return [
+    ['no' => 1, 'nama' => "Abyadh Hidayatullah", 'foto' => 'abyadh-hidayatullah.jpg'],
+    ['no' => 2, 'nama' => "Adinda Aprilia", 'foto' => 'adinda-aprilia.jpg'],
+    ['no' => 3, 'nama' => "Aida Lidiya Nabilah", 'foto' => 'aida-lidiya-nabilah.jpg'],
+    ['no' => 4, 'nama' => "Alya Aqila Zulfaa", 'foto' => 'alya-aqila-zulfaa.jpg'],
+    ['no' => 5, 'nama' => "Amelia Fathar Nst", 'foto' => 'amelia-fathar-nst.jpg'],
+    ['no' => 6, 'nama' => "Cahaya Putri Asysyuara Effendi", 'foto' => 'cahaya-putri-asysyuara-effendi.jpg'],
+    ['no' => 7, 'nama' => "Dewi Rahmah", 'foto' => 'dewi-rahmah.jpg'],
+    ['no' => 8, 'nama' => "Eka Lisa Apriliani", 'foto' => 'eka-lisa-apriliani.jpg'],
+    ['no' => 9, 'nama' => "Faldan Affadil", 'foto' => 'faldan-affadil.jpg'],
+    ['no' => 10, 'nama' => "Gella Meylita", 'foto' => 'gella-meylita.jpg'],
+    ['no' => 11, 'nama' => "Haikhal Syahputra", 'foto' => 'haikhal-syahputra.jpg'],
+    ['no' => 12, 'nama' => "Hayfa Sakhiy", 'foto' => 'hayfa-sakhiy.jpg'],
+    ['no' => 13, 'nama' => "Mariescha Najwa", 'foto' => 'mariescha-najwa.jpg'],
+    ['no' => 14, 'nama' => "Maya", 'foto' => 'maya.jpg'],
+    ['no' => 15, 'nama' => "Miftahul Zannah", 'foto' => 'miftahul-zannah.jpg'],
+    ['no' => 16, 'nama' => "Nazwa Ramadhani", 'foto' => 'nazwa-ramadhani.jpg'],
+    ['no' => 17, 'nama' => "Nazzira Pusvita Sari", 'foto' => 'nazzira-pusvita-sari.jpg'],
+    ['no' => 18, 'nama' => "Novi Yanti", 'foto' => 'novi-yanti.jpg'],
+    ['no' => 19, 'nama' => "Nurhalizah", 'foto' => 'nurhalizah.jpg'],
+    ['no' => 20, 'nama' => "Nurul Aini Nasution", 'foto' => 'nurul-aini-nasution.jpg'],
+    ['no' => 21, 'nama' => "Raffa Ramadhan", 'foto' => 'raffa-ramadhan.jpg'],
+    ['no' => 22, 'nama' => "Reisha Armaini", 'foto' => 'reisha-armaini.jpg'],
+    ['no' => 23, 'nama' => "Sarki Sepriana", 'foto' => 'sarki-sepriana.jpg'],
+    ['no' => 24, 'nama' => "Sevenna Mesyera", 'foto' => 'sevenna-mesyera.jpg'],
+    ['no' => 25, 'nama' => "Shifa Rahmadani", 'foto' => 'shifa-rahmadani.jpg'],
+    ['no' => 26, 'nama' => "Tasya Aulia Putri", 'foto' => 'tasya-aulia-putri.jpg'],
+    ['no' => 27, 'nama' => "Teuku Abdul Razaq", 'foto' => 'teuku-abdul-razaq.jpg'],
+    ['no' => 28, 'nama' => "Wanda Afrilia", 'foto' => 'wanda-afrilia.jpg'],
+    ['no' => 29, 'nama' => "Widya Ulfa", 'foto' => 'widya-ulfa.jpg'],
+    ['no' => 30, 'nama' => "Zahira Nursafa", 'foto' => 'zahira-nursafa.jpg'],
+    ['no' => 31, 'nama' => "Zakwan Abdul Hady", 'foto' => 'zakwan-abdul-hady.jpg'],
+    ['no' => 32, 'nama' => "Zsaskia Meranda", 'foto' => 'zsaskia-meranda.jpg'],
+    ['no' => 33, 'nama' => "Zulaika Fatarani", 'foto' => 'zulaika-fatarani.jpg'],
+];
